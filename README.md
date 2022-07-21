@@ -1,5 +1,5 @@
 <p align="center">
-  <a>Hello, I'm dw. I do open source!</a>
+  <a>Hello, I'm Bill. I do open source!</a>
 </p>
 <br />
 
